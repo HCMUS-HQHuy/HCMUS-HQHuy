@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Huỳnh Quốc Huy (HQH)
+# 👋 Hey there, I'm Huỳnh Quốc Huy
 
 🎓 Currently an undergrad at **VNU-HCM University of Science**  
 💻 Backend Developer Intern | Tech enthusiast  
